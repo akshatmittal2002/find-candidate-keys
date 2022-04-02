@@ -1,6 +1,6 @@
 # Find-Candidate-Keys
 
-Finding all `candidate keys` for a given relation.
+Finding all ```candidate keys``` for a given relation.
 
 Given a particular relation and a set of functional dependencies over it, this program outputs the list of all candidate keys. The list will be sorted based on `size`. Within the keys of same size, the sorting order follows the `alphanumeric order`.
 <br><br>
